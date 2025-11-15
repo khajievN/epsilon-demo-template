@@ -30,3 +30,4 @@ credentials.ini
 .DS_Store
 .DS_Store?
 ._*
+/build/archetypes/
