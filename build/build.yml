@@ -14,7 +14,7 @@ privacy:
 execution:
   environment: enclave
   timeout: 300
-generated_at: '2025-11-15 21:36:24.906880'
+generated_at: '2025-11-15 22:17:17.190663'
 build_info:
   command: epsilon build example_analysis.py
   detected_datasets: 1
