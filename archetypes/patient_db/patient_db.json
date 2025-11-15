@@ -1,0 +1,26 @@
+{
+  "patient": {
+    "patient_id": {
+      "type": "integer",
+      "description": "Patient ID"
+    },
+    "age": {
+      "type": "integer",
+      "description": "Patient age"
+    },
+    "diagnosis": {
+      "type": "string",
+      "description": "Primary diagnosis"
+    },
+    "vitals": {
+      "blood_pressure": {
+        "type": "string",
+        "description": "Blood pressure reading"
+      },
+      "heart_rate": {
+        "type": "integer",
+        "description": "Heart rate BPM"
+      }
+    }
+  }
+}
